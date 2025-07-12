@@ -1,2 +1,3 @@
 # ifsp-dsw
-Repositório para guardar materiais e projetos desenvolvidos na disciplina Banco de Dados no IFSP
+BDS1 2024
+BDS2 2025
