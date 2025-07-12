@@ -1,3 +1,3 @@
 # ifsp-dsw
-BDS1 2024
-BDS2 2025
+DSW1 2024 /
+DSW2 2025
