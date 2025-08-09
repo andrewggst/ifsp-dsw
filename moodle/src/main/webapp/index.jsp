@@ -38,7 +38,7 @@
             <hr class="divider">
             <div class="login-form">
                 <form id="login"  action="login" method="post">
-                    <input type="text" id="email" name="email" placeholder="Identificação de usuário"> 
+                    <input type="text" id="matricula" name="matricula" placeholder="Identificação de usuário"> 
                     <br>
                     <input type="password" id="senha" name="senha" placeholder="Senha"> 
                     <br>
