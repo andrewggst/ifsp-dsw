@@ -1,7 +1,33 @@
 package br.ifsp.edu;
 
+/**
+ * Representa a entidade Aluno no banco de dados.
+ */
 public class Aluno {
-	private String idAluno, nome, idade, sexo, cpf, email, senha, matricula;
+	/** Identificador interno do aluno (chave primária). */
+	private String idAluno;
+
+	/** Nome completo do aluno. */
+	private String nome;
+
+	/** Idade do aluno. */
+	private String idade;
+
+	/** Sexo do aluno. */
+	private String sexo;
+
+	/** CPF do aluno. */
+	private String cpf;
+
+	/** Endereço de e-mail do aluno. */
+	private String email;
+
+	/** Senha usada para login. */
+	private String senha;
+
+	/** Código de matrícula do aluno, usado como identificador no sistema. */
+	private String matricula;
+
 	public String getIdUsuario() {
 		return idAluno;
 	}
