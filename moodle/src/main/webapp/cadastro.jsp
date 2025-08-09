@@ -56,6 +56,8 @@
 					<br> 
 					<input type="email" name="email"placeholder="E-mail institucional" required> 
 					<br>
+					<input type="text" name="matricula" placeholder="Matrícula" required>
+					<br>
 					<input type="password" name="senha" placeholder="Crie uma senha" required>
 					<br> 
 					<input type="password" name="confirmarSenha"placeholder="Confirme a senha" required> 
