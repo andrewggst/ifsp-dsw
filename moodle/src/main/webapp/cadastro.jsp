@@ -12,8 +12,8 @@
 	<div class="login-container">
 		<div class="login-box">
 			<img
-				src="https://moodle.ead.ifsp.edu.br/pluginfile.php/1/core_admin/logo/0x200/1750299736/Marca_IFSP_SimpVert.png"
-				alt="Logo IFSP" class="login-logo">
+				src="https://cdn.stocksnap.io/img-thumbs/960w/tree-leaves_C22LOCLRVH.jpg"
+				alt="Logo Exemplo" class="login-logo">
 			<%
 				String sucesso = request.getParameter("sucesso");
 			%>
@@ -27,9 +27,9 @@
 
 			<div class="login-authenticate">
 				<h3>Cadastrar usando:</h3>
-				<a href="https://suap.ifsp.edu.br" class="auth-button"> <img
-					src="img/img-suap.jpeg" alt="Logo SUAP" class="auth-logo">
-					SUAP IFSP
+				<a href="" class="auth-button"> <img
+					src="https://cdn.stocksnap.io/img-thumbs/960w/tree-leaves_C22LOCLRVH.jpg" alt="Logo Exemplo" class="auth-logo">
+					Exemplo
 				</a> <a href="https://accounts.google.com" class="auth-button"> <img
 					src="img/img-google.png" alt="Google" class="auth-logo">
 					Google IFSP
