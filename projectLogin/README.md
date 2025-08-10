@@ -28,10 +28,6 @@ moodle/
 └── README.md
 ```
 
-yaml
-Copiar
-Editar
-
 ---
 
 ## <img src="https://img.icons8.com/ios-glyphs/24/000000/rocket.png" alt="goal" /> Objetivo
