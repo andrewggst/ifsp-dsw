@@ -1,7 +1,7 @@
-create database Moodle;
-use Moodle;
+create database Aluno;
+use Aluno;
 
-create table Aluno(
+create table Tabela(
 	idAluno int auto_increment primary key not null,
     nome varchar(150),
     idade int,
