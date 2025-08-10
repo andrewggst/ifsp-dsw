@@ -1,4 +1,4 @@
-# Projeto Moodle IFSP
+# Projeto para login e cadastro
 
 Este repositório contém um projeto web para gerenciamento de alunos, desenvolvido na disciplina de Desenvolvimento de Software Web do IFSP.  
 Ele inclui funcionalidades básicas de cadastro e login utilizando Servlets, JSP e conexão com banco MySQL.
@@ -72,4 +72,4 @@ Consulte a documentação da sua IDE para saber como adicionar JARs externos ao 
 
 - Projeto com fins educacionais.
 
-- Projeto inspirado visualmente na página de login do Moodle EaD do IFSP: [Moodle IFSP](https://moodle.ead.ifsp.edu.br/login/index.php)
+- Projeto inspirado visualmente na página de login do Moodle EaD do IFSP, com algumas adaptações, incluindo alterações em imagens e links: [Moodle IFSP](https://moodle.ead.ifsp.edu.br/login/index.php)
