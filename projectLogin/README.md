@@ -47,18 +47,18 @@ Criar uma aplicação web simples para cadastro e login de alunos, exemplificand
    String pass = "sua_senha";
    String banco = "nome_do_banco";
 - Adicione o driver MySQL Connector/J ao classpath do projeto.
-[Download oficial do Tomcat](https://tomcat.apache.org/download-10.cgi)
+[Download oficial do driver](https://dev.mysql.com/downloads/connector/j/)
 
   - A forma de adicionar o driver varia de acordo com a IDE (Eclipse, IntelliJ, VS Code etc.).
 Consulte a documentação da sua IDE para saber como adicionar JARs externos ao classpath.
 
 - Configure o Apache Tomcat como servidor.
-[Download oficial do driver](https://dev.mysql.com/downloads/connector/j/)
+  [Download oficial do Tomcat](https://tomcat.apache.org/download-10.cgi)
 
   - A configuração também depende da IDE utilizada.
   - Verifique como registrar o Tomcat como servidor e rodar aplicações web em sua IDE.
 
-- Inicie o Tomcat e acesse o projeto via navegador: [http://localhost:8080/moodle](http://localhost:8080/moodle)
+- Inicie o Tomcat e acesse o projeto via navegador: [http://localhost:8080/moodle](http://localhost:8080/projectLogin)
 
 ## <img src="https://img.icons8.com/ios-glyphs/24/000000/warning-shield.png" alt="notice" /> Avisos
 
