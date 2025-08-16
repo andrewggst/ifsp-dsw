@@ -20,7 +20,7 @@ Ele inclui funcionalidades básicas de cadastro e login utilizando Servlets, JSP
 ## <img src="https://img.icons8.com/ios-glyphs/24/000000/folder-invoices--v1.png" alt="folder" /> Organização do projeto
 
 ```
-moodle/
+projectLogin/
 ├── src/main/java/br/ifsp/edu/
 ├── src/main/webapp/
 ├── aluno.sql
