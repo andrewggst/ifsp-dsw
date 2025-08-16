@@ -58,7 +58,7 @@ Consulte a documentação da sua IDE para saber como adicionar JARs externos ao 
   - A configuração também depende da IDE utilizada.
   - Verifique como registrar o Tomcat como servidor e rodar aplicações web em sua IDE.
 
-- Inicie o Tomcat e acesse o projeto via navegador: [http://localhost:8080/moodle](http://localhost:8080/projectLogin)
+- Inicie o Tomcat e acesse o projeto via navegador: [http://localhost:8080/projectLogin](http://localhost:8080/projectLogin)
 
 ## <img src="https://img.icons8.com/ios-glyphs/24/000000/warning-shield.png" alt="notice" /> Avisos
 
