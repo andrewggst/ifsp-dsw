@@ -1,7 +1,7 @@
 create database Aluno;
 use Aluno;
 
-create table Tabela(
+create table Aluno(
 	idAluno int auto_increment primary key not null,
     nome varchar(150),
     idade int,
